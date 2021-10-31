@@ -6,9 +6,10 @@ var playVideo = () => {
 
 var movingText = () => {
   setInterval(() => {
-    document.getElementById("video-blocker").innerHTML = "Inspect Element";
+    document.getElementById("video-blocker").innerHTML =
+      "Inspect Element aria-title";
     setTimeout(() => {
       document.getElementById("video-blocker").innerHTML = "";
-    }, 500);
-  }, 10000);
+    }, 750);
+  }, 7500);
 };
