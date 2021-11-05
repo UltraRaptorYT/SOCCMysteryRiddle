@@ -10,6 +10,6 @@ var movingText = () => {
       "Inspect Element aria-title";
     setTimeout(() => {
       document.getElementById("video-blocker").innerHTML = "";
-    }, 750);
+    }, 1000);
   }, 7500);
 };
