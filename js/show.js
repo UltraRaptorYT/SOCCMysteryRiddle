@@ -15,7 +15,7 @@ var movingText = () => {
 };
 
 document.getElementById("body").innerHTML = `<div onclick="playVideo()">
-      <div aria-title="CTF101{K3nNaa_RRick_rr0l1_L}" id="video-blocker">
+      <div aria-title="CTF101{K3nNaa_RRick_rr0l1_L_lmao_no0b_bUt_H3r3s_tH3_FLAG}" id="video-blocker">
         Have Fun!
         <svg
           xmlns="http://www.w3.org/2000/svg"
