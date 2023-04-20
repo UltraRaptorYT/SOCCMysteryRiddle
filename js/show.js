@@ -15,8 +15,8 @@ var movingText = () => {
 };
 
 document.getElementById("body").innerHTML = `<div onclick="playVideo()">
-      <div aria-title="Labcoxyzl#CHY" id="video-blocker">
-        Click for SOCC Mystery Riddle Clue
+      <div aria-title="CTF101{K3nNaa_RRick_rr0l1_L}" id="video-blocker">
+        Have Fun!
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
