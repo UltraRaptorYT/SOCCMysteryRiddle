@@ -30,7 +30,7 @@ document.getElementById("body").innerHTML = `<div onclick="playVideo()">
       </div>
       <video id="video" loop oncontextmenu="return false;">
         <source src="img/rickroll.mp4" type="video/mp4" />
-        Your browser does not support HTML5 video.
+        Your browser does not support HTML5 video. Sed
       </video>
     </div>`;
 
